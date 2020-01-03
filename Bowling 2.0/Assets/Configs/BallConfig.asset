@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eebdf75d5624c634caade88cd57c0193, type: 3}
+  m_Name: BallConfig
+  m_EditorClassIdentifier: 
+  force: 155000
+  initialPosition: {x: 0, y: 1.4, z: -120}
+  ballPrefab: {fileID: 2461321081614450460, guid: b612bcae6767cb64899ee4e54ce739f5,
+    type: 3}
